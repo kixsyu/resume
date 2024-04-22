@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container { 
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1 px solid #ccc;
+    border-radius: 5px; 
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p { 
+    margin-bottom: 10px;
+}
+
+ul{ 
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li { 
+    margin-bottom: 5px;
+}
